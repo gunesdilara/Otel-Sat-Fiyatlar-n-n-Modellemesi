@@ -1,1 +1,1 @@
-# Otel-Sat-Fiyatlar-n-n-Modellemesi
+# Otel-Satis-Fiyatlarinin-Modellemesi
